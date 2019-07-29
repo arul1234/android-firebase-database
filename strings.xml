@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kl Guessing</string>
+    <string name="load">Loading..</string>
+    <string name="all_board">All Board</string>
+    <string name="single_board">Single Board</string>
+    <string name="three_digit">Three Digit</string>
+    <string name="four_digit">Four Digit</string>
+    <string name="sample">this is sample content for all data</string>
+</resources>
